@@ -37,12 +37,7 @@ In terms of any stock analysis, please note that past performance is no guarante
 3.
 
 
-Full analysis is detailed in the attached spreadsheet:
-
-
-
-
-
+Full analysis is detailed in the attached spreadsheet: [VBA Challenge Stocks](https://github.com/MikeHankinson/stock-analysis/blob/main/VBA_Challange.xlsm)
 
 ### Analysis of Outcomes Based on Launch Date
 
