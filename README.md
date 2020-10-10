@@ -24,10 +24,23 @@ The following 12 green energy tickers were analyzed for performance during 2017 
 - Table 1: 2017 Total Volume and Rate of Return
 
 
+
 ![2018_Results_Table.PNG](https://github.com/MikeHankinson/stock-analysis/blob/main/Resources/2018_Results_Table.PNG)
 - Table 1: 2018 Total Volume and Rate of Return
 
-The following conclusions can be made regardig the analysis: 
+
+
+In terms of any stock analysis, please note that past performance is no guarantee of future results. 
+
+1.
+2.
+3.
+
+
+Full analysis is detailed in the attached spreadsheet:
+
+
+
 
 
 
