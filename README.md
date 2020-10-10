@@ -1,15 +1,24 @@
 # stock-analysis
-Study to analyze green energy stocks for Steve. 10/4/2020
+Client is looking to invesst money in green energy stocks.  Specifically, the client is interested in investing in a DaQo New Energy (NYSE: DQ), a company engaged in the manufacture of monocrystalline silicon and polysilicon, primarily for use in solar photovoltaic systems.  
 
-## Project Overview
-  
-
-### Purpose
-The objective of this work is to develop 
-- R
- 
+## Project Overview / Purpose
+The goal of this project is to identify and analyze stock performance of multiple select green energy stocks.    
 
 ## Analysis and Challenges
+The following 12 green energy tickers were analyzed for performance during 2017 and 2018:  
+
+- AY      Atlantica Sustainable Infrastructure PLC
+- CSIQ    Canadian Solar Inc.
+- DQ      DaQo New Energy
+- ENPH    Enphase Energy Inc
+- FSLR    First Solar, Inc. 
+- HASI    Hannon Armstrong Sustnbl Infrstr Cap 
+- JKS     JinkoSolar Holding Co., Ltd
+- RUN     Sunrun Inc
+- SEDG    Solaredge Technologies Inc 
+- SPWR    SunPower Corporation
+- TERP    TerraForm Power
+- VSLR    Vivint Solar, Inc. 
 
 
 
