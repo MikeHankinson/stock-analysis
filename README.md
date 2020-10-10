@@ -20,11 +20,20 @@ The following 12 green energy tickers were analyzed for performance during 2017 
 - TERP    TerraForm Power
 - VSLR    Vivint Solar, Inc. 
 
+![2017_Results_Table.PNG](https://github.com/MikeHankinson/stock-analysis/blob/main/Resources/2017_Results_Table.PNG)
+- Table 1: 2017 Total Volume and Rate of Return
+
+
+![2018_Results_Table.PNG](https://github.com/MikeHankinson/stock-analysis/blob/main/Resources/2018_Results_Table.PNG)
+- Table 1: 2018 Total Volume and Rate of Return
+
+The following conclusions can be made regardig the analysis: 
+
 
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Theater_Outcomes_vs_Launch.PNG](https://github.com/MikeHankinson/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.PNG)
+
 
 
 
